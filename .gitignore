@@ -5,5 +5,6 @@ __pycache__/
 real_data/rawdump.xml
 real_data/traffic_figures/
 # *png
+# test
 sumolog
 .vscode/
